@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+
+h1{
+	color:#0000FF;
+}
+
+h2{
+	color:#FF0000;
+}
+
+div{
+	display: inline;
+}
+
+.margin_bottom30px{
+    margin-bottom: 30px;
+}
+
+.margin_left30px{
+    margin-left: 30px;
+}
